@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-![](https://komarev.com/ghpvc/?username=FlorianMF&color=green)
-
--->
+![](https://komarev.com/ghpvc/?username=FlorianMF&color=green)-->
 
 - Hello, I am Florian Müller-Fouarge
 - I am a Deep Learning Engineer in the field of Medical Imaging Analysis.
@@ -60,6 +58,8 @@ About Me:
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" 
         alt="linux" width="40" height="40" />
     -->
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" 
+         alt="linux" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" 
          alt="sqlite" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" 
