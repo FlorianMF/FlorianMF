@@ -71,3 +71,5 @@ About Me:
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" 
          alt="opencv" width="40" height="40" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianMF&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
