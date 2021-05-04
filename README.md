@@ -30,7 +30,7 @@ About Me:
          alt="python" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" 
          alt="pytorch" width="40" height="40" />
-    <img src="https://github.com/PyTorchLightning/pytorch-lightning/blob/master/docs/source/_images/logos/lightning_logo.svg" 
+    <img src="https://github.com/PyTorchLightning/pytorch-lightning/blob/master/docs/source/_static/images/icon.svg" 
          alt="pytorch lightning" width="40" height="40" />
   <!--
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
