@@ -7,7 +7,7 @@
 - I am a Deep Learning Engineer in the field of Medical Imaging Analysis.
 
 About Me:
-- 🔭 I’m currently working at Pixel Diagnostics on diagnosing automatically Xray images of bone joints
+- 🔭 I’m currently working at Deemea on diagnosing automatically Xray images of bone joints
 - 🌱 I’m currently learning Docker, Kubernetes, JavaScript, ...
 - 👯 I’m looking to collaborate on Pytorch/Pytorch Lightning Projects
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,7 @@ About Me:
 <!--
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florian-mueller-fouarge/) or raise an Issue [here](https://github.com/FlorianMF/FlorianMF/issues)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florian-muller-fouarge/) or raise an Issue [here](https://github.com/FlorianMF/FlorianMF/issues)
 
 <!--
 - ⚡ Fun fact: ...
