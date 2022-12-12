@@ -8,10 +8,14 @@
 
 About Me:
 - 🔭 I’m currently working at Deemea on diagnosing automatically Xray images of bone joints
-- 🌱 I’m currently learning Docker, Kubernetes, JavaScript, ...
+<!--
+- 🌱 I’m currently learning Kubernetes, JavaScript, ...
+-->
 - 👯 I’m looking to collaborate on Pytorch/Pytorch Lightning Projects
+<!--
 - 🤔 I’m looking for help with ...
-- 🗣️ I speak fluently German, French and English and get along in Italian
+-->
+- 🗣️ I speak fluently German, French and English, have a intermediate level in Italian and I'm currently learning Spanish
 <!--
 - 💬 Ask me about ...
 -->
